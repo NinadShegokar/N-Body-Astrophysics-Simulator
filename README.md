@@ -57,6 +57,9 @@ This project relies on the following Julia packages:
 ---
 
 ## 🔬 Results
+![nbody_improved](https://github.com/user-attachments/assets/995ebae4-2f54-4ed1-991b-23e23f20aed2)
+
+
 
 ### ☀️ Central Star
 A massive particle at the center, dominating the gravitational field.
@@ -73,7 +76,3 @@ A massive particle at the center, dominating the gravitational field.
 
 ## ⚖️ License
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
-
----
-
-Enjoy exploring the cosmos! 🚀✨
